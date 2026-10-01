@@ -15,7 +15,7 @@ All you need to enjoy Sonos, without leaving the conversation.
 - A Sonos account with access to a compatible Sonos system and online players.
 - Cursor and/or Grok with MCP support and permission to load this plugin.
 - Sonos OAuth authorization for the connected account.
-- For music-service playback, a supported music service must be configured on Sonos.
+- For music service playback, a supported music service must be configured on Sonos.
   Service subscriptions and content availability may vary.
 
 Sonos MCP currently supports US-English. See the [Sonos setup documentation](https://support.sonos.com/article/control-your-sonos-system-with-ai-using-sonos-27mcp)
@@ -45,7 +45,7 @@ Sonos MCP service or its server implementation.
 ### Sonos Trademarks and Logo
 
 The Sonos name and logos are trademarks of Sonos, Inc. The Sonos logo asset
-(`assets/favicon.ico`) is the property of Sonos, Inc. and is excluded from the
+(`assets/favicon.png`) is the property of Sonos, Inc. and is excluded from the
 MIT License. All rights in that asset are reserved.
 
 The MIT License does not grant permission to use, modify, or redistribute the
