@@ -38,22 +38,4 @@ for supported music services and current availability.
 
 ## License
 
-The plugin configuration and documentation in this repository are licensed
-under the [MIT License](LICENSE). This license does not apply to the hosted
-Sonos MCP service or its server implementation.
-
-### Sonos Trademarks and Logo
-
-The Sonos name and logos are trademarks of Sonos, Inc. The Sonos logo asset
-(`assets/favicon.png`) is the property of Sonos, Inc. and is excluded from the
-MIT License. All rights in that asset are reserved.
-
-The MIT License does not grant permission to use, modify, or redistribute the
-Sonos logo, or to use Sonos trademarks. Such use requires separate authorization
-from Sonos, except as permitted by applicable law. This notice does not limit
-rights separately granted by Sonos, including to authorized marketplace
-operators for distribution and display of this official plugin.
-
-For Sonos brand guidance, see Section 5 of the
-[Sonos Platform Terms of Service](https://docs.sonos.com/docs/terms-of-service)
-and the brand guidelines linked from the [Sonos Media Kit](https://docs.sonos.com/docs/media-kit).
+[MIT License](LICENSE)
