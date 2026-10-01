@@ -9,6 +9,6 @@
   "homepage": "https://www.sonos.com",
   "repository": "https://github.com/Sonos-Inc/sonos-mcp-plugin",
   "keywords": ["sonos", "music", "audio", "mcp"],
-  "logo": "assets/favicon.ico",
+  "logo": "assets/favicon.png",
   "mcpServers": "mcp.json"
 }
