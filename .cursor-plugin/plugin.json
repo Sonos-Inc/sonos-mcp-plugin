@@ -1,0 +1,14 @@
+{
+  "name": "sonos",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Control your Sonos system",
+  "author": {
+    "name": "Sonos, Inc."
+  },
+  "homepage": "https://www.sonos.com",
+  "repository": "https://github.com/Sonos-Inc/sonos-mcp-plugin",
+  "keywords": ["sonos", "music", "audio", "mcp"],
+  "logo": "assets/favicon.ico",
+  "mcpServers": "mcp.json"
+}

@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "sonos": {
+      "url": "https://mcp.ws.sonos.com/mcp"
+    }
+  }
+}
